@@ -16,7 +16,7 @@ public class Person extends BaseEntity{
         return surname;
     }
 
-    public void setSurname(String surname) {
+    public void setSurname( String surname) {
         this.surname = surname;
     }
 
